@@ -1,3 +1,5 @@
+#Bankist 2.0 App
+
 Second web application from Udemy's JavaScript course.
 
 To test the app, use the following two accounts:
